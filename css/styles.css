@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+    height: 100vh;
+    padding-top: 15px;
+
+    background-color: #4ca2cd;
+    background-image: linear-gradient(
+        to top right,
+        #F3904F, #3B4371
+        );
+}
